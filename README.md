@@ -15,9 +15,16 @@ This is my personal learning space where I explore Java, improve my coding skill
 ## 📂 Structure  
 Programs are organized based on topics to make navigation easy.  
 
-## 🤝 Contributions  
-Contributions are welcome! Follow these steps to contribute:  
-1. **Fork** this repository  
-2. **Clone** your forked repo:  
-   ```sh
-   git clone https://github.com/your-username/JavaJourney.git
+Feel free to fork this repository and submit pull requests. I welcome contributions on:  
+- Code improvements  
+- New problem-solving examples  
+- Documentation or tips  
+Please follow the general code style and include relevant comments for clarity.
+
+## 📂 Structure  
+Programs are organized based on topics to make navigation easy.
+
+## 📜 License  
+This project is for educational purposes.
+
+Happy Coding! ☕🚀
