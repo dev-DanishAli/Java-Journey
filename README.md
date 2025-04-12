@@ -4,7 +4,7 @@ Welcome to **JavaJourney** – a collection of Java practice programs!
 
 ## 📌 About  
 This repository contains various Java programs covering:  
-- Core Java concepts  
+- Core Java concepts 
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
 - Problem-solving exercises  
