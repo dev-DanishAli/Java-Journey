@@ -1,4 +1,4 @@
-# JavaJourney 🚀☕  
+# JavaJourney 🚀☕ 
 
 Welcome to **JavaJourney** – a collection of Java practice programs!  
 
